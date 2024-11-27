@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Thin.woff2') format('woff2'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Thin.woff') format('woff'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Thin.ttf') format('truetype'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Thin.svg#HarmonyOS_Sans_Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Light.woff2') format('woff2'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Light.woff') format('woff'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Light.ttf') format('truetype'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Light.svg#HarmonyOS_Sans_Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Regular.woff2') format('woff2'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Regular.woff') format('woff'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Regular.ttf') format('truetype'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Regular.svg#HarmonyOS_Sans_Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Medium.woff2') format('woff2'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Medium.woff') format('woff'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Medium.ttf') format('truetype'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Medium.svg#HarmonyOS_Sans_Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Bold.woff2') format('woff2'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Bold.woff') format('woff'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Bold.ttf') format('truetype'), url('https://cdn-gg.vnggames.app/fonts/HarmonyOS_Sans/HarmonyOS_Sans_Bold.svg#HarmonyOS_Sans_Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+html,
+body {
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizelegibility;
+}

@@ -1,0 +1,2 @@
+var OPENWIDGET_ENABLE = true;
+//var OPENWIDGET_ENABLE = false;

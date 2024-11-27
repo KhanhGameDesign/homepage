@@ -1,0 +1,46 @@
+.gg-widget-login-btn[data-v-ae26d06e] {
+    line-height: 1;
+    font-family: HarmonyOS Sans;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: .5rem;
+    padding: .75rem 1rem;
+    border-radius: 1.875rem;
+    background: #ed7c2b;
+    color: #fff;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-transition: all .3s linear;
+    transition: all .3s linear;
+    -webkit-box-shadow: rgba(240, 90, 34, .4) 0 0 0 2px;
+    box-shadow: 0 0 0 2px rgba(240, 90, 34, .4);
+    cursor: pointer;
+    font-size: 1rem
+}
+
+.gg-widget-login-btn[data-v-ae26d06e]:hover {
+    background: #de640d
+}
+
+.gg-widget-login-btn[data-v-ae26d06e]:disabled,
+.gg-widget-login-btn[disabled][data-v-ae26d06e] {
+    background: #f4f4f4;
+    color: #767a7f;
+    cursor: not-allowed
+}
+
+.gg-widget-login-btn.gt-widget-login-btn__loading[data-v-ae26d06e] {
+    cursor: wait
+}
